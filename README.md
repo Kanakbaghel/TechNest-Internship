@@ -13,19 +13,19 @@
 - Deploy models and APIs to serve predictions.
 
 ## 2. Repository Structure and Task Catalogue
-| SNo. | Tasks                  | Description |
-|-------|------------------------|-------------|
-|1.| **Data Pipeline Development** | Build a reproducible ETL pipeline for the Titanic dataset using Pandas and scikit-learn. |             
-|2.| **Deep Learning Project**     |Implement and evaluate a deep learning model (TensorFlow or PyTorch) on the Fake vs. Real News dataset.|
-|3.| **End-to-End Data Science Project** |Execute a full-cycle project for E-Commerce Shipping, including data collection, modeling, and API or web app deployment.|
-|4.| **Optimization Model**        | Formulate and solve a business optimization problem (cost minimization or resource allocation) using PuLP or SciPy.optimize.|
-|5.| **Exploratory Data Analysis** | Conduct comprehensive EDA on the Netflix Movies & TV Shows dataset and report key insights.|
-|6.| **Model Evaluation & Tuning** | Compare multiple machine learning models on the Student Performance dataset and perform hyperparameter tuning.|
-|7.| **Blinkit Sales & Outlet Performance Analysis**  | Perform end-to-end sales analysis and visualization using the Blinkit dataset.|
-|8.| **Sentiment Analysis on Product Reviews**        | Analyze customer reviews using NLP techniques and present sentiment insights.|
-|9.| **Fake Review Detection**                        | Develop a classification model to detect fake or spam reviews using NLP and supervised learning.|
-|10.| **Demand Forecasting for Multi-Store Retail**   | Create a demand forecasting system combining time series and machine learning for a retail chain.|
-|11.| **YouTube-Based Learning Task**                 | Summarize the “Python for Data Science” tutorial (FreeCodeCamp) and apply learned methods to the Data Science Salaries dataset. |
+| SNo. | Tasks                  | Description |Project Link |
+|-------|------------------------|-------------|------------|
+|1.| **Data Pipeline Development** | Build a reproducible ETL pipeline for the Titanic dataset using Pandas and scikit-learn. |      |       
+|2.| **Deep Learning Project**     |Implement and evaluate a deep learning model (TensorFlow or PyTorch) on the Fake vs. Real News dataset.||
+|3.| **End-to-End Data Science Project** |Execute a full-cycle project for E-Commerce Shipping, including data collection, modeling, and API or web app deployment.||
+|4.| **Optimization Model**        | Formulate and solve a business optimization problem (cost minimization or resource allocation) using PuLP or SciPy.optimize.||
+|5.| **Exploratory Data Analysis** | Conduct comprehensive EDA on the Netflix Movies & TV Shows dataset and report key insights.| [Click here to view the Project](https://github.com/Kanakbaghel/Netflix_Movies_and_TV_Shows-EDA-)|
+|6.| **Model Evaluation & Tuning** | Compare multiple machine learning models on the Student Performance dataset and perform hyperparameter tuning.| [Click here to view the Project](https://github.com/Kanakbaghel/Model_Evaluation_and_Tuning)|
+|7.| **Blinkit Sales & Outlet Performance Analysis**  | Perform end-to-end sales analysis and visualization using the Blinkit dataset.||
+|8.| **Sentiment Analysis on Product Reviews**        | Analyze customer reviews using NLP techniques and present sentiment insights.||
+|9.| **Fake Review Detection**                        | Develop a classification model to detect fake or spam reviews using NLP and supervised learning.||
+|10.| **Demand Forecasting for Multi-Store Retail**   | Create a demand forecasting system combining time series and machine learning for a retail chain.||
+|11.| **YouTube-Based Learning Task**                 | Summarize the “Python for Data Science” tutorial (FreeCodeCamp) and apply learned methods to the Data Science Salaries dataset. ||
 
 ## 3. Prerequisites
 
