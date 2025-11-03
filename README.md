@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status Badge">
   <img src="https://img.shields.io/badge/Duration-16%20Weeks-blue" alt="Duration Badge">
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20ML%20%7C%20NLP-orange" alt="Languages Badge">
-  <img src="https://img.shields.io/github/stars/Kanakbaghel/TechNest-Internship-Data-Science?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/Kanakbaghel/TechNest-Internship-Data-Science?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/stars/Kanakbaghel/TechNest-Internship?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/Kanakbaghel/TechNest-Internship?style=social" alt="GitHub Forks">
 </div>
 
 ---
